@@ -1,2 +1,2 @@
-# RubicCube
+# Rubic Cube
 First school project on automatic Rubic Cube solving...
